@@ -147,7 +147,7 @@ Lovely Professional University, Punjab
 
 <p align="center">
   <a href="https://github.com/rohitgomgee" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/rohitgomgee" target="_blank">
