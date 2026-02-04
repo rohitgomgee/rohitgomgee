@@ -1,11 +1,11 @@
 <!-- HERO -->
 <h1 align="center">Rohit</h1>
 <h3 align="center">
-Development Manager • Lead PHP Architect • SaaS & Platform Builder
+Development Manager • Lead PHP Development  • SaaS & Platform Builder
 </h3>
 
 <p align="center">
-12+ years building scalable PHP systems, SaaS platforms, and high-traffic web applications.
+12+ years building scalable web systems, SaaS platforms, and high-traffic web applications.
 </p>
 
 <p align="center">
