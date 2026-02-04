@@ -12,7 +12,7 @@ Development Manager • Lead PHP Architect • SaaS & Platform Builder
   <a href="https://github.com/rohitgomgee">GitHub</a> •
   <a href="https://linkedin.com/in/rohitgomgee">LinkedIn</a> •
   <a href="mailto:gomgee@gmail.com">gomgee@gmail.com</a> •
-  <a href="https://rohit.jmdfriiends.com/">Portfolio</a>
+  <a href="https://rohit.jmdfriends.com/">Portfolio</a>
 </p>
 
 <hr/>
@@ -158,7 +158,7 @@ Lovely Professional University, Punjab
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://rohit.jmdfriiends.com/" target="_blank">
+  <a href="https://rohit.jmdfriends.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" width="42" height="42" />
   </a>
 </p>
